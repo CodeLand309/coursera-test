@@ -23,12 +23,14 @@ section>h2 {
     border-left: 1px solid black;
     border-right: 1px solid black;
     margin: 0;
+    overflow: hidden;
     font-size: 18px;
     padding-bottom: 5px;
     padding-top: 5px;
 }
 section.box1, section.box2, section.box3{
     background-color: #9b9b9b;
+    overflow: hidden;
 }
 #title1{
     color: black;
